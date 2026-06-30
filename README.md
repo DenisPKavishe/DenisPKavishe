@@ -11,7 +11,23 @@ I specialize in creating modern web applications, mobile applications, and backe
 
 ## Skills & Technologies
 
-ts,js,py,css,nextjs,vercel,react,html,git,github,nodejs,redis,postgres,mysql,supabase,dart,flutter,django,gitlab,tailwind,php,graphql,androidstudio,anaconda,netlify,postman,vscode,sqlite
+## Languages
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,php,dart,html,css)](https://skillicons.dev)
+
+## Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+
+## Backend
+[![Backend](https://skillicons.dev/icons?i=nodejs,django,graphql,redis)](https://skillicons.dev)
+
+## Mobile
+[![Mobile](https://skillicons.dev/icons?i=flutter,androidstudio)](https://skillicons.dev)
+
+## Databases
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase)](https://skillicons.dev)
+
+## Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,vercel,netlify,anaconda)](https://skillicons.dev)
 
 ## GitHub Stats
 
